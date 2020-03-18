@@ -5,8 +5,6 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.security.Key;
-
 public class LexisNexis {
 
     public static void main(String[] args) throws InterruptedException {
